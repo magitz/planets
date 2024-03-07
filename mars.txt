@@ -1,7 +1,9 @@
 # Mars
 
+## Weather
 Cold and dry but everything is my favorite color.
 
+## Moons
 The two moons may be a problem for Wolfman.
 
 Add more info
